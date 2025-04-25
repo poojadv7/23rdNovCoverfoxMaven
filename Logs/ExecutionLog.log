@@ -1,0 +1,169 @@
+2025-04-22 23:48:04,927 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-22 23:48:09,757 - 23rdNovMaven -INFO - Launching Browser
+2025-04-22 23:48:10,546 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-22 23:48:11,975 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-22 23:48:13,851 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-22 23:48:14,067 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-22 23:48:14,259 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-22 23:48:14,337 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-22 23:48:15,267 - 23rdNovMaven -INFO - entering PinCode
+2025-04-22 23:48:15,611 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-22 23:48:15,868 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-22 23:48:15,987 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-22 23:48:20,075 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-22 23:48:30,479 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-22 23:48:30,487 - 23rdNovMaven -INFO - closing Browser
+2025-04-22 23:54:00,195 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-22 23:54:03,212 - 23rdNovMaven -INFO - Launching Browser
+2025-04-22 23:54:03,887 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-22 23:54:05,168 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-22 23:54:06,400 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-22 23:54:06,543 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-22 23:54:06,669 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-22 23:54:06,738 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-22 23:54:07,193 - 23rdNovMaven -INFO - entering PinCode
+2025-04-22 23:54:07,290 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-22 23:54:07,389 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-22 23:54:07,461 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-22 23:54:11,532 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-22 23:54:21,923 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-22 23:54:21,939 - 23rdNovMaven -INFO - closing Browser
+2025-04-22 23:59:38,190 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-22 23:59:40,618 - 23rdNovMaven -INFO - Launching Browser
+2025-04-22 23:59:42,370 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-22 23:59:43,886 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-22 23:59:44,792 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-22 23:59:44,964 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-22 23:59:45,098 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-22 23:59:45,166 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-22 23:59:45,593 - 23rdNovMaven -INFO - entering PinCode
+2025-04-22 23:59:45,707 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-22 23:59:45,825 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-22 23:59:45,896 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-22 23:59:49,981 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 00:00:00,438 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-23 00:00:00,442 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 17:41:03,753 - 23rdNovMaven -INFO - Welcome to Coverfox testing test case 2 error msgs on Address Details Page
+2025-04-23 17:41:07,047 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 17:41:07,651 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 17:41:09,000 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 17:41:10,022 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 17:41:10,150 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 17:41:10,290 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 17:41:10,370 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 17:41:10,774 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 17:41:10,855 - 23rdNovMaven -INFO - validating Error Msgs For PINCodes And Mobile
+2025-04-23 17:41:48,862 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-23 17:41:52,996 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 17:41:53,566 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 17:41:54,880 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 17:41:55,757 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 17:41:55,932 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 17:41:56,079 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 17:41:56,152 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 17:41:56,802 - 23rdNovMaven -INFO - entering PinCode
+2025-04-23 17:41:56,905 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-23 17:41:57,232 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-23 17:41:57,408 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 17:42:01,472 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 17:42:11,796 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-23 17:42:11,805 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 17:44:28,444 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-23 17:44:30,809 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 17:44:32,529 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 17:44:33,639 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 17:44:34,461 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 17:44:34,583 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 17:44:34,779 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 17:44:34,856 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 17:44:35,308 - 23rdNovMaven -INFO - entering PinCode
+2025-04-23 17:44:35,403 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-23 17:44:35,518 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-23 17:44:35,593 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 17:44:39,703 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 17:44:49,986 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 17:45:27,348 - 23rdNovMaven -INFO - Welcome to Coverfox testing test case 2 error msgs on Address Details Page
+2025-04-23 17:45:31,305 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 17:45:32,088 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 17:45:33,304 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 17:45:34,147 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 17:45:34,289 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 17:45:34,472 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 17:45:34,574 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 17:45:34,994 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 17:45:35,089 - 23rdNovMaven -INFO - validating Error Msgs For PINCodes And Mobile
+2025-04-23 18:02:54,427 - 23rdNovMaven -INFO - Welcome to Coverfox testing test case 2 error msgs on Address Details Page
+2025-04-23 18:02:57,332 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:02:57,990 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:02:59,362 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:03:00,427 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:03:00,594 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:03:00,718 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:03:00,790 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:03:01,232 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:03:01,334 - 23rdNovMaven -INFO - validating Error Msgs For PINCodes And Mobile
+2025-04-23 18:03:04,324 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-23 18:03:07,304 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:03:08,693 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:03:08,995 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:03:09,550 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:03:09,694 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:03:09,824 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:03:09,899 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:03:10,357 - 23rdNovMaven -INFO - entering PinCode
+2025-04-23 18:03:10,454 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-23 18:03:10,569 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-23 18:03:10,634 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:03:14,722 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 18:03:24,971 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-23 18:03:24,978 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 18:14:06,118 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-23 18:14:10,266 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:14:10,972 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:14:12,263 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:14:13,458 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:14:13,725 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:14:13,900 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:14:13,998 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:14:14,610 - 23rdNovMaven -INFO - entering PinCode
+2025-04-23 18:14:14,826 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-23 18:14:15,129 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-23 18:14:15,248 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:14:19,372 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 18:14:29,766 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-23 18:14:29,774 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 18:14:30,684 - 23rdNovMaven -INFO - Welcome to Coverfox testing test case 2 error msgs on Address Details Page
+2025-04-23 18:14:32,997 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:14:34,854 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:14:35,401 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:14:35,944 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:14:36,134 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:14:36,454 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:14:36,570 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:14:36,985 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:14:37,080 - 23rdNovMaven -INFO - validating Error Msgs For PINCodes And Mobile
+2025-04-23 18:18:58,967 - 23rdNovMaven -INFO - Welcome to Coverfox testing
+2025-04-23 18:19:02,620 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:19:03,397 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:19:04,595 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:19:05,487 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:19:05,641 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:19:05,758 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:19:05,827 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:19:06,325 - 23rdNovMaven -INFO - entering PinCode
+2025-04-23 18:19:06,467 - 23rdNovMaven -INFO - clicking On CheckBox
+2025-04-23 18:19:06,714 - 23rdNovMaven -INFO - entering Mobile Number
+2025-04-23 18:19:06,785 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:19:10,867 - 23rdNovMaven -INFO - validating YouAndHusband's Coverfox Plans
+2025-04-23 18:19:21,158 - 23rdNovMaven -INFO - validating Mother's Coverfox Plans
+2025-04-23 18:19:21,178 - 23rdNovMaven -INFO - closing Browser
+2025-04-23 18:19:21,978 - 23rdNovMaven -INFO - Welcome to Coverfox testing test case 2 error msgs on Address Details Page
+2025-04-23 18:19:25,270 - 23rdNovMaven -INFO - Launching Browser
+2025-04-23 18:19:25,935 - 23rdNovMaven -INFO - clicking On Gender
+2025-04-23 18:19:27,146 - 23rdNovMaven -INFO - clicking On Next Button Of Health Plan Page
+2025-04-23 18:19:27,649 - 23rdNovMaven -INFO - handleling You Age DropDown
+2025-04-23 18:19:27,859 - 23rdNovMaven -INFO - handleling Spouse Age DropDown
+2025-04-23 18:19:28,045 - 23rdNovMaven -INFO - handleling Mother Age DropDown
+2025-04-23 18:19:28,122 - 23rdNovMaven -INFO - clicking On Next Button Of Member DetailsPage
+2025-04-23 18:19:28,561 - 23rdNovMaven -INFO - clicking On Continue Button Of Address DetailsPage
+2025-04-23 18:19:28,663 - 23rdNovMaven -INFO - validating Error Msgs For PINCodes And Mobile

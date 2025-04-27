@@ -116,6 +116,9 @@ public class TestCoverfoxUsingTestNG extends Base {  // USE INHERITANCE
 		Assert.assertEquals(YouAndHusbandPlanNumberFromText, YouAndHusbandPlanNumberFromPLANCARDS, "TC is failed, When YouAndHusband Plan numbers are not matching");
 		Reporter.log("YouAndHusband Plan numbers are matching. TC is passed", true);
 		//Utility.takeScreenshot(driver, "Coverfox YouAndHusband Plans Screenshot"); (take screenshot if TC is passed)
+		Reporter.log("first change", true);
+		Reporter.log("second change", true);
+		Reporter.log("third change", true);
 		
 		//Mother plan number
 		int getMotherPlanNumberFromText = coverfoxResultPage.getMotherPlanNumberFromText();

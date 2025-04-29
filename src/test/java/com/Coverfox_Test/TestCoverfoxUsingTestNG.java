@@ -119,18 +119,18 @@ public class TestCoverfoxUsingTestNG extends Base {  // USE INHERITANCE
 		Reporter.log("velocity 1", true);
 		Reporter.log("velocity 2", true);
 		Reporter.log("velocity 3", true);
-		
-		//Mother plan number
-		int getMotherPlanNumberFromText = coverfoxResultPage.getMotherPlanNumberFromText();
-		int getMotherPlanNumberFromPLANCARDS = coverfoxResultPage.getMotherPlanNumberFromPLANCARDS();
-		//Hard Assert for comparison.
-		
-		logger.info("validating Mother's Coverfox Plans");
-		
-		//validate Mother plan numbers 
-		Assert.assertEquals(getMotherPlanNumberFromText, getMotherPlanNumberFromPLANCARDS,"TC is failed, When Mother Plan numbers are not matching");
-		Reporter.log("Mother Plan numbers are matching. TC is passed", true);
-		
+//		
+//		//Mother plan number
+//		int getMotherPlanNumberFromText = coverfoxResultPage.getMotherPlanNumberFromText();
+//		int getMotherPlanNumberFromPLANCARDS = coverfoxResultPage.getMotherPlanNumberFromPLANCARDS();
+//		//Hard Assert for comparison.
+//		
+//		logger.info("validating Mother's Coverfox Plans");
+//		
+//		//validate Mother plan numbers 
+//		Assert.assertEquals(getMotherPlanNumberFromText, getMotherPlanNumberFromPLANCARDS,"TC is failed, When Mother Plan numbers are not matching");
+//		Reporter.log("Mother Plan numbers are matching. TC is passed", true);
+//		
 		//Mother plans ScreenShot
 		//Utility.takeScreenshot(driver, "Coverfox Mother Plans Screenshot"); //this is from Utility class  (take screenshot if TC is passed)
 

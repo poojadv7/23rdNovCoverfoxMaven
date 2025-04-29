@@ -1,78 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[reading Data From Properties file]]>
-    </line>
-    <line>
-      <![CDATA[launching Browser]]>
-    </line>
-    <line>
-      <![CDATA[Clicking on Gender]]>
-    </line>
-    <line>
-      <![CDATA[Selecting Husband and Mother options]]>
-    </line>
-    <line>
-      <![CDATA[clicking On NextButton Of HealthPlanPage]]>
-    </line>
-    <line>
-      <![CDATA[reading Data From Excel]]>
-    </line>
-    <line>
-      <![CDATA[handleling You Age DropDown ]]>
-    </line>
-    <line>
-      <![CDATA[reading Data From Excel]]>
-    </line>
-    <line>
-      <![CDATA[handleling Spouse Age DropDown ]]>
-    </line>
-    <line>
-      <![CDATA[reading Data From Excel]]>
-    </line>
-    <line>
-      <![CDATA[handleling Mother Age DropDown ]]>
-    </line>
-    <line>
-      <![CDATA[clicking On NextButton Of MemberDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[clicking On ContinueButton Of AddressDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[clicking On ContinueButton Of AddressDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[error msg for self pincode is displayed. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[error msg for Parents pincode is displayed. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[error msg for Mobile number is displayed. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[getting Self PIN Code Error Message On AddressDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[error msg for self pincode is matching with expected error msg. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[getting Parents PIN Code Error Message On AddressDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[error msg for Parents pincode is matching with expected error msg. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[getting Mobile number Error Message On AddressDetailsPage]]>
-    </line>
-    <line>
-      <![CDATA[error msg for Mobile number is matching with expected error msg. TC is Passed]]>
-    </line>
-    <line>
-      <![CDATA[Closing browser]]>
-    </line>
     <line>
       <![CDATA[reading Data From Properties file]]>
     </line>
@@ -137,114 +65,24 @@
       <![CDATA[YouAndHusband Plan numbers are matching. TC is passed]]>
     </line>
     <line>
-      <![CDATA[getting Mother PlanNumber From Text]]>
+      <![CDATA[velocity 1]]>
     </line>
     <line>
-      <![CDATA[getting Mother PlanNumber From PLANCARDS]]>
+      <![CDATA[velocity 2]]>
     </line>
     <line>
-      <![CDATA[Mother Plan numbers are matching. TC is passed]]>
+      <![CDATA[velocity 3]]>
     </line>
     <line>
       <![CDATA[Closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-23T18:02:54 IST" name="Default suite" finished-at="2025-04-23T18:03:25 IST" duration-ms="31480">
+  <suite started-at="2025-04-29T14:14:17 IST" name="Default suite" finished-at="2025-04-29T14:14:29 IST" duration-ms="12372">
     <groups>
     </groups>
-    <test started-at="2025-04-23T18:02:54 IST" name="Default test" finished-at="2025-04-23T18:03:25 IST" duration-ms="31480">
-      <class name="com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG@192c3f1e]" started-at="2025-04-23T18:02:54 IST" name="launchBrowser" finished-at="2025-04-23T18:02:57 IST" duration-ms="3096" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[reading Data From Properties file]]>
-            </line>
-            <line>
-              <![CDATA[launching Browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="coverfoxPreconditions()[pri:0, instance:com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG@192c3f1e]" started-at="2025-04-23T18:02:57 IST" name="coverfoxPreconditions" finished-at="2025-04-23T18:03:01 IST" duration-ms="3809" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Clicking on Gender]]>
-            </line>
-            <line>
-              <![CDATA[Selecting Husband and Mother options]]>
-            </line>
-            <line>
-              <![CDATA[clicking On NextButton Of HealthPlanPage]]>
-            </line>
-            <line>
-              <![CDATA[reading Data From Excel]]>
-            </line>
-            <line>
-              <![CDATA[handleling You Age DropDown ]]>
-            </line>
-            <line>
-              <![CDATA[reading Data From Excel]]>
-            </line>
-            <line>
-              <![CDATA[handleling Spouse Age DropDown ]]>
-            </line>
-            <line>
-              <![CDATA[reading Data From Excel]]>
-            </line>
-            <line>
-              <![CDATA[handleling Mother Age DropDown ]]>
-            </line>
-            <line>
-              <![CDATA[clicking On NextButton Of MemberDetailsPage]]>
-            </line>
-            <line>
-              <![CDATA[clicking On ContinueButton Of AddressDetailsPage]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- coverfoxPreconditions -->
-        <test-method signature="validateErrorMsgsForPINCodesAndMobile()[pri:0, instance:com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG@192c3f1e]" started-at="2025-04-23T18:03:01 IST" name="validateErrorMsgsForPINCodesAndMobile" finished-at="2025-04-23T18:03:01 IST" duration-ms="233" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[clicking On ContinueButton Of AddressDetailsPage]]>
-            </line>
-            <line>
-              <![CDATA[error msg for self pincode is displayed. TC is Passed]]>
-            </line>
-            <line>
-              <![CDATA[error msg for Parents pincode is displayed. TC is Passed]]>
-            </line>
-            <line>
-              <![CDATA[error msg for Mobile number is displayed. TC is Passed]]>
-            </line>
-            <line>
-              <![CDATA[getting Self PIN Code Error Message On AddressDetailsPage]]>
-            </line>
-            <line>
-              <![CDATA[error msg for self pincode is matching with expected error msg. TC is Passed]]>
-            </line>
-            <line>
-              <![CDATA[getting Parents PIN Code Error Message On AddressDetailsPage]]>
-            </line>
-            <line>
-              <![CDATA[error msg for Parents pincode is matching with expected error msg. TC is Passed]]>
-            </line>
-            <line>
-              <![CDATA[getting Mobile number Error Message On AddressDetailsPage]]>
-            </line>
-            <line>
-              <![CDATA[error msg for Mobile number is matching with expected error msg. TC is Passed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- validateErrorMsgsForPINCodesAndMobile -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG@192c3f1e]" started-at="2025-04-23T18:03:01 IST" name="closeBrowser" finished-at="2025-04-23T18:03:04 IST" duration-ms="2834" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Closing browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.Coverfox_Test.TestCoverfoxErrorMsgUsingTestNG -->
+    <test started-at="2025-04-29T14:14:17 IST" name="Default test" finished-at="2025-04-29T14:14:29 IST" duration-ms="12372">
       <class name="com.Coverfox_Test.TestCoverfoxUsingTestNG">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@445b295b]" started-at="2025-04-23T18:03:04 IST" name="launchBrowser" finished-at="2025-04-23T18:03:07 IST" duration-ms="2998" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@1f59a598]" started-at="2025-04-29T14:14:17 IST" name="launchBrowser" finished-at="2025-04-29T14:14:20 IST" duration-ms="3397" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[reading Data From Properties file]]>
@@ -254,7 +92,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="coverfoxPreconditions()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@445b295b]" started-at="2025-04-23T18:03:07 IST" name="coverfoxPreconditions" finished-at="2025-04-23T18:03:14 IST" duration-ms="7326" status="PASS">
+        <test-method is-config="true" signature="coverfoxPreconditions()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@1f59a598]" started-at="2025-04-29T14:14:20 IST" name="coverfoxPreconditions" finished-at="2025-04-29T14:14:28 IST" duration-ms="7961" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on Gender]]>
@@ -306,7 +144,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverfoxPreconditions -->
-        <test-method signature="validateCoverfoxPlans()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@445b295b]" started-at="2025-04-23T18:03:14 IST" name="validateCoverfoxPlans" finished-at="2025-04-23T18:03:24 IST" duration-ms="10331" status="PASS">
+        <test-method signature="validateCoverfoxPlans()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@1f59a598]" started-at="2025-04-29T14:14:28 IST" name="validateCoverfoxPlans" finished-at="2025-04-29T14:14:28 IST" duration-ms="77" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[getting YouAndHusband PlanNumber From Text]]>
@@ -318,17 +156,17 @@
               <![CDATA[YouAndHusband Plan numbers are matching. TC is passed]]>
             </line>
             <line>
-              <![CDATA[getting Mother PlanNumber From Text]]>
+              <![CDATA[velocity 1]]>
             </line>
             <line>
-              <![CDATA[getting Mother PlanNumber From PLANCARDS]]>
+              <![CDATA[velocity 2]]>
             </line>
             <line>
-              <![CDATA[Mother Plan numbers are matching. TC is passed]]>
+              <![CDATA[velocity 3]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateCoverfoxPlans -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@445b295b]" started-at="2025-04-23T18:03:24 IST" name="closeBrowser" finished-at="2025-04-23T18:03:25 IST" duration-ms="790" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Coverfox_Test.TestCoverfoxUsingTestNG@1f59a598]" started-at="2025-04-29T14:14:28 IST" name="closeBrowser" finished-at="2025-04-29T14:14:29 IST" duration-ms="879" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser]]>

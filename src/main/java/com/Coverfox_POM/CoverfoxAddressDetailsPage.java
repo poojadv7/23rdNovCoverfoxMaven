@@ -12,9 +12,9 @@ public class CoverfoxAddressDetailsPage {
 	@FindBy(className = "mp-check-input") private WebElement sameAsMineCheckBox;
 	@FindBy(xpath = "//input[@id='want-expert']") private WebElement mobileNumberField;
 	@FindBy(xpath = "//div[text()='Continue']") private WebElement continueButton;
-	@FindBy(xpath = "(//div[contains(text(),'pincode ')])[1]")  WebElement errorMsgSelfPIN;
-	@FindBy(xpath = "(//div[contains(text(),'pincode ')])[2]")  WebElement errorMsgParentsPIN;
-	@FindBy(xpath = "//div[contains(text(),'mobile no. ')]")  WebElement errorMsgMobile;
+	@FindBy(xpath = "(//div[contains(text(),'pincode ')])[1]") private WebElement errorMsgSelfPIN;
+	@FindBy(xpath = "(//div[contains(text(),'pincode ')])[2]") private WebElement errorMsgParentsPIN;
+	@FindBy(xpath = "//div[contains(text(),'mobile no. ')]")  private WebElement errorMsgMobile;
 	
 	//constructor
 	
